@@ -24,3 +24,7 @@ Java Quiz Page: Interactive quiz to assess Java knowledge.<br>
 SQL Quiz Page: Interactive quiz to assess SQL knowledge.<br>
 
 ![1](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/971058c9-2963-4683-abaa-7148ecf7abc6)
+![2](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/86e2bad4-96d9-4745-9198-4bfbf043c7e7)
+![3](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/dce6964e-041f-422e-b285-bd3b9ad72f4b)
+![4](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/2da047cf-af69-430e-8a9f-6335932d35fe)
+![5](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/99e7c780-49d3-408d-b9d3-7110d623975c)
