@@ -22,3 +22,5 @@ SQL Tutorial Page: Provides tutorials and resources for learning SQL.<br>
 Python Quiz Page: Interactive quiz to assess Python knowledge.<br>
 Java Quiz Page: Interactive quiz to assess Java knowledge.<br>
 SQL Quiz Page: Interactive quiz to assess SQL knowledge.<br>
+
+![1](https://github.com/Ravichandrans16/Interactive_Learning_Platform/assets/153452855/971058c9-2963-4683-abaa-7148ecf7abc6)
